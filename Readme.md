@@ -15,7 +15,7 @@ theoretical contributions presented in our ECC 2026 submission:
 ## Contents
 
 ### Main Document
-- **[`supplemental_document_ECC2025-10.pdf`](/supplemental_document_ECC2025-10.pdf)** (10 pages)
+- **[`supplemental_document_ECC2026-10.pdf`](/supplemental_document_ECC2026-10.pdf)** (10 pages)
   - Complete derivations for all theorems and lemmas
   - Explicit formulas for all constants
   - Self-contained proofs with detailed steps
